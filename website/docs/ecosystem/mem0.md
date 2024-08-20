@@ -68,4 +68,5 @@ After initializing Mem0, you can start using its memory management features in y
 - Virtual Companions
 
 ## Mem0 Platform Examples
-* [Quickstart Guide](https://docs.mem0.ai/platform/quickstart)
+* [Autogen with Mem0 example](https://docs.mem0.ai/examples/autogen)
+* [More Mem0 examples](https://docs.mem0.ai/examples)
