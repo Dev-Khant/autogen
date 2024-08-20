@@ -1,4 +1,4 @@
-# Mem0 Platform: AI Memory Management and Personalization
+# Mem0: Empower your AI applications with long-term memory and personalization
 
 <img src="https://github.com/mem0ai/mem0/blob/main/docs/images/mem0-bg.png?raw=true" alt="Mem0 logo" style="width: 40%;" />
 
